@@ -197,6 +197,7 @@ result = execute(qprog).result()
 print(result[0].value.parsed_counts)
 ```
 
+
 <hr>
 
 Have questions? Feedback? Something to share?
